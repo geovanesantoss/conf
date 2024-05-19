@@ -50,6 +50,56 @@
         "url_check_user": null,
         "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
 
+ "auth": {
+            "password": "",
+            "username": "",
+            "v2ray_uuid": null
+        },
+        "category": {
+            "color": "#E25A3896",
+            "created_at": "2023-07-30 19:55:24",
+            "id": 5612,
+            "name": "🟢​ SERVIDOR Online",
+            "sorter": 10,
+            "status": "ACTIVE",
+            "updated_at": "2023-08-07 14:43:09",
+            "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
+        },
+        "category_id": 5612,
+        "config_openvpn": null,
+        "config_payload": {
+            "payload": "GET / HTTP/1.1[crlf]Host: helpypro.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.1[crlf]Host: [host] [crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]#CONNECT / HTTP/1.1[lf]Host: dataacademy.descomplica.com.br[lf][lf][lf][lf]PUT- / HTTP/1.1[lf]Host: [host][lf]Upgrade: websocket[lf]User-Agent: Mobile Safari/9 OPR/9[lf][lf]#GET wss://dataacademy.descomplica.com.br HTTP/1.1[crlf]Host: dataacademy.descomplica.com.br[crlf]X-Online-Host: dataacademy.descomplica.com.br[crlf]X-Forward-Host: dataacademy.descomplica.com.br[crlf]X-Forwarded-For: dataacademy.descomplica.com.br[crlf]Expect: 100-continue[crlf][delay_split][crlf]PUT- /@/ HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]User-Agent: yes[crlf][crlf]#CONNECT / HTTP/1.1[lf]Host: urlbuildertim.descomplica.com.br[lf][lf][lf][lf]PUT- / HTTP/1.1[lf]Host: [host][lf]Upgrade: websocket[lf]User-Agent: Mobile Safari/9 OPR/9[lf][lf]#CONNECT / HTTP/1.1[lf]Host: aidata.descomplica.com.br[lf][lf][lf][lf]PUT- / HTTP/1.1[lf]Host: [app_host][lf]Upgrade: websocket[lf]User-Agent: Mobile Safari/9 OPR/9[lf][lf]",
+            "sni": null
+        },
+        "config_v2ray": null,
+        "created_at": "2023-01-14 13:51:57",
+        "description": "© OWER SSH GRATIS",
+        "dns_server": {
+            "dns1": "208.67.222.222",
+            "dns2": "208.67.220.220"
+        },
+        "icon": "tim",
+        "id": 13014,
+        "mode": "SSH_PROXY",
+        "name": "✅ TIM SALDO VALIDO [1]",
+        "proxy": {
+            "host": "dataacademy.descomplica.com.br#172.67.162.233#carreiras.landing.stoodi.com.br#104.19.241.93",
+            "port": 80
+        },
+        "server": {
+            "host": "br.owerssh.shop#bot.owerssh.shop",
+            "port": 80
+        },
+        "sorter": 1,
+        "status": "ACTIVE",
+        "tls_version": "TLSv1.2",
+        "udp_ports": [
+            7300
+        ],
+        "updated_at": "2023-08-07 02:21:27",
+        "url_check_user": null,
+        "user_id": "83615944-f09e-4f34-8cc6-96cc5fd99133"
+
 
     }
 ]
