@@ -9,7 +9,7 @@
             "color": "#E25A3896",
             "created_at": "2023-07-30 19:55:24",
             "id": 5612,
-            "name": "SERVIDOR Online",
+            "name": "🟢​ SERVIDOR Online",
             "sorter": 10,
             "status": "ACTIVE",
             "updated_at": "2023-08-07 14:43:09",
@@ -23,12 +23,12 @@
         },
         "config_v2ray": null,
         "created_at": "2023-01-14 13:51:57",
-        "description": "© SSH T PROJECT FREE",
+        "description": "© OWER SSH GRATIS",
         "dns_server": {
             "dns1": "208.67.222.222",
             "dns2": "208.67.220.220"
         },
-        "icon": "https://www.bing.com/images/search?view=detailV2&ccid=cZ1KtAOK&id=94A719E9142E05B2912E1373C63F26397FDEE74E&thid=OIP.cZ1KtAOKMEJLuXtNW-D0ygHaEo&mediaurl=https%3A%2F%2Fhd2.tudocdn.net%2F887483%3Fw%3D1200&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.719d4ab4038a30424bb97b4d5be0f4ca%3Frik%3DTufefzkmP8ZzEw%26pid%3DImgRaw%26r%3D0&exph=750&expw=1200&q=ic-tim.png&simid=608042523771673354&form=IRPRST&ck=4837C7C5A1B4B3F6E622BA2D3DF85506&selectedindex=0&itb=1&idpp=overlayview&ajaxhist=0&ajaxserp=0&cit=ccid_EN0w%2BbDx*cp_7DB1E22709745DD071DA95764B48EE9C*mid_AFC10934318551C4A0ACF6F34BC4DAEB4AE2DE81*simid_608033328256132534*thid_OIP.EN0w-bDxCDmKy!_09mWyTbwHaHa&vt=2",
+        "icon": "tim",
         "id": 13014,
         "mode": "SSH_PROXY",
         "name": "✅ TIM SALDO VALIDO [1]",
